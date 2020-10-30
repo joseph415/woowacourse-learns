@@ -36,7 +36,7 @@
 
 | Project |                          Repository                          |                         Pull Request                         |
 | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 치킨집  | [java-chicken-2019](https://github.com/woowacourse/java-chicken-2019) | [Pull Request](https://github.com/woowacourse/java-chicken-2019/pull/29) |
+| 치킨집  | [java-chicken-2019](https://github.com/joseph415/java-chicken-2020/tree/joseph415) | [Pull Request](https://github.com/woowacourse/java-chicken-2020/pull/39) |
 
 <br/>
 
