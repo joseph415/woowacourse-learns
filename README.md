@@ -86,10 +86,10 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1](https://github.com/joseph415/jwp-chess/tree/develop) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/36) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/joseph415/jwp-chess/tree/develop2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/104) |
-|     체스 / step3     | [jwp-chess/step3](https://github.com/joseph415/jwp-chess/tree/develop3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/134) |
-|     체스 / step4     | [jwp-chess/step4](https://github.com/joseph415/jwp-chess/tree/develop4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/210) |
+|     체스 / step1     | [jwp-chess/develop](https://github.com/joseph415/jwp-chess/tree/develop) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/36) |
+|     체스 / step2     | [jwp-chess/develop2](https://github.com/joseph415/jwp-chess/tree/develop2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/104) |
+|     체스 / step3     | [jwp-chess/develop3](https://github.com/joseph415/jwp-chess/tree/develop3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/134) |
+|     체스 / step4     | [jwp-chess/develop4](https://github.com/joseph415/jwp-chess/tree/develop4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/210) |
 |   지하철 정보 관리   | [atdd-subway-admin](https://github.com/joseph415/atdd-subway-admin) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/41) |
 |   지하철 경로 조회   | [atdd-subway-path](https://github.com/joseph415/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/26) |
 | 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/joseph415/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/38) |
