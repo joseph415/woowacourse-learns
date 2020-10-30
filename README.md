@@ -94,7 +94,7 @@
 |   지하철 경로 조회   | [atdd-subway-path](https://github.com/joseph415/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/26) |
 | 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/joseph415/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/38) |
 |  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/joseph415/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/37) |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/joseph415/woowa-userstory-2020) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/52) |
+|    사용자 이야기     | [woowa-userstory-2020](https://github.com/joseph415/woowa-userstory-2020/tree/joseph415) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/52) |
 
 <br/>
 
@@ -158,6 +158,6 @@
 |   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/joseph415/woowa-writing-2/blob/joseph415/record.md)|
 |   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/joseph415/woowa-writing-2/blob/joseph415/record2.md)| 
 |   3   |   팀 프로젝트가 나에게 남긴 것      | [woowa-writing-2/level3](https://github.com/joseph415/woowa-writing-2/blob/joseph415/recored3.md)|
-|   4   |       2기 크루들에게 보내는 편지       |                       comming soon...                        |
+|   4   |      내가 꿈꾸는 프로그래머로서의 삶       |                       [woowa-writing-2/level4](https://github.com/joseph415/woowa-writing-2/blob/joseph415/record4.md)                        |
 
 <br/>
