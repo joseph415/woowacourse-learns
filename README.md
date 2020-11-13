@@ -138,12 +138,13 @@
 | Level |                 Topic                  |                          Repository                          |                   
 | :---: | :------------------------------------: | :----------------------------------------------------------: | 
 |     웹 애플리케이션 서버     | [jwp-was](https://github.com/joseph415/jwp-was/tree/joseph415) | **coming soon** |
+|     리팩토링     | [jwp-refactoring](https://github.com/joseph415/jwp-refactoring/tree/joseph415) | **coming soon** |
 
 <br/>
 
 ## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
 
-### 발표 주제 : 빌드와 배포
+### 발표 주제 : ARP Protocol
 
 **comming soon**
 
