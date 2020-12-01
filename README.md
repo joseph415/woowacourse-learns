@@ -134,8 +134,8 @@
 ### 진행 미션
 | Level |                 Topic                  |                          Repository                          |                   
 | :---: | :------------------------------------: | :----------------------------------------------------------: | 
-|     웹 애플리케이션 서버     | [jwp-was](https://github.com/joseph415/jwp-was/tree/joseph415) | **coming soon** |
-|     리팩토링     | [jwp-refactoring](https://github.com/joseph415/jwp-refactoring/tree/joseph415) | **coming soon** |
+|     웹 애플리케이션 서버     | [jwp-was](https://github.com/joseph415/jwp-was/tree/joseph415) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/118) |
+|     리팩토링     | [jwp-refactoring](https://github.com/joseph415/jwp-refactoring/tree/joseph415) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/40) |
 
 <br/>
 
@@ -143,7 +143,7 @@
 
 ### 발표 주제 : ARP Protocol
 
-**comming soon**
+[ARP Protocol](https://www.youtube.com/watch?v=KMEPEdsK71I&t=0s)
 
 <br/>
 
