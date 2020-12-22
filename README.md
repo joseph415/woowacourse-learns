@@ -116,7 +116,6 @@
 
 - [직고래 Github](https://github.com/woowacourse-teams/2020-seller-lee-company)
 - [학습기록](https://github.com/joseph415/JIKGORAE-project-records)
-- [직고래 소개](https://sites.google.com/woowahan.com/wooteco-demo/직고래/)
 
 <br/>
 
