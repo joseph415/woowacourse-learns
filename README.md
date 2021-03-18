@@ -141,6 +141,7 @@
 ## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
 
 ### 발표 주제 : ARP Protocol
+![image](https://user-images.githubusercontent.com/53935703/111674571-80da6880-885f-11eb-8b96-dfe2ee4ea607.png)
 
 [ARP Protocol](https://www.youtube.com/watch?v=KMEPEdsK71I&t=0s)
 
